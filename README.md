@@ -6,6 +6,9 @@ This code can be called as canva clone
 # Demo
 https://design-lilac.vercel.app/
 
+# Community
+[https://discord.gg/mBj7fqKpEM](https://discord.gg/mBj7fqKpEM)
+
 
 # Contact
 Contact me: [duyanh980@gmail.com](mailto:duyanh980@gmail.com)
