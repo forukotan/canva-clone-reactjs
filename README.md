@@ -13,6 +13,5 @@ https://design-lilac.vercel.app/
 # Community
 [https://discord.gg/mBj7fqKpEM](https://discord.gg/mBj7fqKpEM)
 
-
-# Contact
-Contact me: [duyanh980@gmail.com](mailto:duyanh980@gmail.com)
+# Send Message & Get Updates
+https://www.facebook.com/liquid.editor
